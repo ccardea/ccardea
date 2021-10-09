@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ccardea
 - 👀 I’m interested in Python, Data Science, and Machine Learning
-- 🌱 I’m currently taking an Introduction To Computer Science with Python.
+- 🌱 I’m currently enrolled in online courses from MIT.
 - 💞️ I’m looking to collaborate on ... not sure just yet.
 - 📫 How to reach me ... @mentions is probably best for now.
 - I'm new to Python but not to programming. I have a good bit of experience but little formal instruction.
